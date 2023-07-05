@@ -1,8 +1,8 @@
 # rbs + steep事始め
 
 # Setup
-* VSCode
-  * steep 拡張をインストールする
+* VS Code
+  * steep拡張をインストールする
 
 # 型チェック
 ```
