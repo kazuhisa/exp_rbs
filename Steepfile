@@ -28,5 +28,5 @@
 
 target :app do
   signature 'sig'
-  check 'main.rb'
+  check '*.rb'
 end
